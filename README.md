@@ -1,7 +1,21 @@
 # A Scoping Review of Knowledge Graphs in Pharmacovigilance: Reference Sheet and Material
-This page contains the list of references used in our scoping review, along with a spreadsheet with further details that can be used for further analysis of the references.
+This page contains the list of references used in our scoping review. Additional details can be found on this [spreadsheet](KG4DrugSafetyScopingReview.xlsx), which can be used for further analysis of the references.
 
 Please [open an issue](https://github.com/kg4drugsafety/kg4drugsafety.github.io/issues) if you would like to suggest new references.
+
+Our scoping review article is currently under review. To cite:
+
+```
+@misc{Hauben23,
+  author    = {Manfred Hauben and
+               Oktie Hassanzadeh and
+               Ibrahim Abdelaziz and
+               Mazin Rafi},
+  title     = {A Scoping Review of Knowledge Graphs in Pharmacovigilance},
+  booktitle = {Unpublished Manuscript},
+  year      = {2023}
+}
+```
 
 ## Reference List
 
@@ -200,6 +214,7 @@ Please [open an issue](https://github.com/kg4drugsafety/kg4drugsafety.github.io/
     <div class="csl-left-margin" style="float: left; padding-right: 0.5em;text-align: right; width: 2em;">47.</div><div class="csl-right-inline" style="margin: 0 .4em 0 2.5em;">Kwak H, Lee M, Yoon S, Chang J, Park S, Jung K. Drug-Disease Graph: Predicting Adverse Drug Reaction Signals via Graph Neural Network with Clinical Data. <i>Advances in Knowledge Discovery and Data Mining</i>. 2020;12085:633-644. doi:<a href="https://doi.org/10.1007/978-3-030-47436-2_48">10.1007/978-3-030-47436-2_48</a></div>
   </div>
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1007%2F978-3-030-47436-2_48&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Drug-Disease%20Graph%3A%20Predicting%20Adverse%20Drug%20Reaction%20Signals%20via%20Graph%20Neural%20Network%20with%20Clinical%20Data&amp;rft.jtitle=Advances%20in%20Knowledge%20Discovery%20and%20Data%20Mining&amp;rft.stitle=Advances%20in%20Knowledge%20Discovery%20and%20Data%20Mining&amp;rft.volume=12085&amp;rft.aufirst=Heeyoung&amp;rft.aulast=Kwak&amp;rft.au=Heeyoung%20Kwak&amp;rft.au=Minwoo%20Lee&amp;rft.au=Seunghyun%20Yoon&amp;rft.au=Jooyoung%20Chang&amp;rft.au=Sangmin%20Park&amp;rft.au=Kyomin%20Jung&amp;rft.date=2020-04-17&amp;rft.pages=633-644&amp;rft.spage=633&amp;rft.epage=644"></span>
+  <br><br>
 </div></body>
 </html>
 
