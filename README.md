@@ -22,7 +22,6 @@ Our scoping review article is currently under review. To cite:
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; ">
@@ -225,7 +224,6 @@ Our scoping review article is currently under review. To cite:
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 1.35; ">
