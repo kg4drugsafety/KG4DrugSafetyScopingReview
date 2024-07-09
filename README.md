@@ -3,17 +3,19 @@ This page contains the list of references used in our scoping review. Additional
 
 Please [open an issue](https://github.com/kg4drugsafety/kg4drugsafety.github.io/issues) if you would like to suggest new references.
 
-Our scoping review article is currently under review. To cite:
+Our scoping review article got accepted on June 5, 2024 and is now available [online](https://doi.org/10.1016/j.clinthera.2024.06.003). To cite:
 
 ```
-@misc{Hauben23,
+@misc{Hauben2024,
   author    = {Manfred Hauben and
-               Oktie Hassanzadeh and
+               Mazin Rafi and
                Ibrahim Abdelaziz and
-               Mazin Rafi},
-  title     = {A Scoping Review of Knowledge Graphs in Pharmacovigilance},
-  booktitle = {Unpublished Manuscript},
-  year      = {2023}
+               Oktie Hassanzadeh},
+  title = {Knowledge Graphs in Pharmacovigilance: A Scoping Review},
+  journal = {Clinical Therapeutics},
+  year = {2024},
+  issn = {0149-2918},
+  doi = {https://doi.org/10.1016/j.clinthera.2024.06.003},
 }
 ```
 
